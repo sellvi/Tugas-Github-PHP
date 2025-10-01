@@ -1,0 +1,55 @@
+NAMA : SELVI JULIA
+NIM : 25106050009
+
+FIGMA adalah aplikasi desain UI/UX berbasis vektor (kalau di zoom gak akan pecah) yang berjalan
+di browser.
+=>  berbasis cloud ada juga yang desktop dan bisa diakses offline tapi gak langsung 
+    ke save otomatis di cloud figma.bisa collab realtime.
+=>  punya fitur prototyping yaitu bisa membuat tampilan anatarmuka/desain jadi interaktif.
+=>  tools paling populer saat ini untuk desain UI/UX terutama di perusuhaan teknologi/desain.
+
+//C.R.A.P// 
+CONTRAST => perbedaan
+REPETTION => perulangan
+ALIGMENT => perataan
+PROXIMITY => pengelompokan
+
+//LAWS OF UX//
+hicks law --> waktu yang dipakai user untuk memilih agar tidak bingung
+fitts's law --> aturan peletakan tommbol utama agar user tidak kesulitan
+millers law --> rata-rata orang mengingat hanya 7+2 elemen, nanti user kebingungan
+jakobs law --> jangan terlalu ngide pengen buat yang beda atau baru
+
+//PRINCIPLE DESIGN//
+emphasis --> penekanan
+typography --> teks,font dll.
+color --> pemilihan warna (60%, 30%, 10%)
+white space --> ruang nafas atau kosong agar tidak terlalu penuh
+
+VSCODE adalah aplikasi untuk membantu peoses pengembangan aplikasi yang dikembangkan oleh microsoft
+
+//KEUNGGULAN//
+=> populer
+=> gratis dan open source
+=> ringan tapi power full
+=> cross - platform (bisa dipake di beberapa sistem operasi)
+=> ekstensi lengkap
+=> dukungan komunitas besar
+
+GIT adalah sistem kontrol versi distribusi untuk melacak perubahan proyek , berkolaborasi dalam tim 
+dan menyimpan riwayat versi proyek sebelumnya.
+
+//KEUNGGULAN//
+=> populer (standar industri global)
+=> gratis
+=> bisa kerja bareng tanpa tabrakan
+=> bisa amengatur dan melacak versi code
+=> cross platform dll.
+
+GITHUB untuk menyimpan, melacak, dan berkolaborasi secara online yang menggunakan sistem kontrol versi GIT.
+
+//KEUNGGULAN//
+=> populer
+=> semua code aman di cloud
+=> bisa pamer projecct, portofolio mahasiswa dll.
+=> bisa kerja tim lintas tempat dll.
