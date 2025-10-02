@@ -46,7 +46,7 @@ dan menyimpan riwayat versi proyek sebelumnya.
 => bisa amengatur dan melacak versi code
 => cross platform dll.
 
-GITHUB untuk menyimpan, melacak, dan berkolaborasi secara online yang menggunakan sistem kontrol versi GIT.
+GITHUB adalah aplikasiatau web untuk menyimpan, melacak, dan berkolaborasi secara online yang menggunakan sistem kontrol versi GIT.
 
 //KEUNGGULAN//
 => populer
