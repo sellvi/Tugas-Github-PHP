@@ -44,7 +44,7 @@ dan menyimpan riwayat versi proyek sebelumnya.
 => gratis
 => bisa kerja bareng tanpa tabrakan
 => bisa amengatur dan melacak versi code
-=> cross platform dll.
+=> cross platform dllGIT
 
 GITHUB adalah aplikasiatau web untuk menyimpan, melacak, dan berkolaborasi secara online yang menggunakan sistem kontrol versi GIT.
 
